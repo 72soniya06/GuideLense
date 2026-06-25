@@ -8,9 +8,13 @@ Top Search Bar: Quickly look up pre-configured cities (like Prayagraj, New York,
 Separate Dedicated Pages: Clicking any block opens an isolated, beautifully detailed view specifically focused on that single option.
 
 Technologies Used to Build This App
+
 React 18 (with Vite): Fast, component-driven UI rendering.
+
 TypeScript: Complete static type-safety across all components and municipal databases.
+
 Tailwind CSS: Modern utility classes for a clean, elegant, and highly responsive mobile-to-desktop design.
+
 Lucide React: Clean, modern vector icons for the cards and navigation elements.
 
 
