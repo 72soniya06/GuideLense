@@ -1,8 +1,12 @@
 CityLens is a simple, real-time city lookup application designed for instant urban intelligence.
-What the App Does
+
+What the App Does :-
 Top Search Bar: Quickly look up pre-configured cities (like Prayagraj, New York, or Tokyo) or type any city in the world to dynamically simulate data.
+
 5-Option Feature Hub: Once a city is selected, it presents a clean, centered dashboard with 5 visual blocks: Traffic Feeds, Pollution Data, Weather Specs, Local Events, and Public Transport.
+
 Separate Dedicated Pages: Clicking any block opens an isolated, beautifully detailed view specifically focused on that single option.
+
 Technologies Used to Build This App
 React 18 (with Vite): Fast, component-driven UI rendering.
 TypeScript: Complete static type-safety across all components and municipal databases.
