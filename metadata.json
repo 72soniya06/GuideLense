@@ -1,0 +1,6 @@
+{
+  "name": "GuideLense",
+  "description": "City Intelligence Assistant featuring live interactive mapping, sensor feeds, dynamic incident triggers, and a real-time streaming RAG chatbot.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
